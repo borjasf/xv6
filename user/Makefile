@@ -14,6 +14,15 @@ UPROGS=\
 	usertests\
 	wc\
 	zombie\
+	date\
+	tprio\
+	dup2test\
+	tsbrk1\
+	tsbrk2\clean
+	tsbrk3\
+	tsbrk4\
+	tsbrk5\
+	exitwait\
 
 # Try to infer the correct TOOLPREFIX if not set
 ifndef TOOLPREFIX
